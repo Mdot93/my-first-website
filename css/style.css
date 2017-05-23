@@ -1,0 +1,17 @@
+body{
+background-color: maroon;	
+}
+
+h1{
+text-align: center;
+font-family: Impact, sans-serif;
+font-size: 45px;
+color:white; 
+}
+
+p, li {
+font-family: Helvetica,sans-serif;
+font-size: 18px;
+line-height: 24px;
+
+}
